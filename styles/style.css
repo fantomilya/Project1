@@ -1,0 +1,7 @@
+a.green {
+    color: rgb(110, 155, 19);
+    font-size: 20px;
+}
+div.bordered{
+    border: 5px dotted peachpuff;
+}
